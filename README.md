@@ -1,2 +1,2 @@
-# sudharshan-shukla
-this is my first 
+# Sudharshan-shukla
+This is my first repositires
